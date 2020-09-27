@@ -7,6 +7,5 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
 
 I am using R Markdown to make this website.  
